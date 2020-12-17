@@ -10,4 +10,4 @@ where
 4. `iterations` is the number of iterations to perform. 
 
 # References
-[1] To be added. 
+[1] Malakhov, D. V., and M. K. Abou Khatwa. "Constructing a self-consistent integral baseline by using cubic splines." Journal of thermal analysis and calorimetry 87.2 (2007): 595-599.
